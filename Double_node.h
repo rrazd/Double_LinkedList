@@ -1,18 +1,6 @@
 #ifndef DOUBLE_NODE_H
 #define DOUBLE_NODE_H
 
-/*****************************************
- * UW User ID:  uwuserid
- * Submitted for ECE 250
- * Department of Electrical and Computer Engineering
- * University of Waterloo
- * Calender Term of Submission:  (Winter|Spring|Fall) 20NN
- *
- * By submitting this file, I affirm that
- * I am the author of all modifications to
- * the provided code.
- *****************************************/
-
 #include "ece250.h"
 
 template <typename Object>
