@@ -6,4 +6,4 @@ thus will let it rest in peace.
 ###NOTE###
 
 There are two .cpp files included one is for integer inputs and the other for 
-double inputs. The makfile compiled using the integer version.  
+double inputs. The makefile included compiles using the integer version.  
